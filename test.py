@@ -1,1 +1,1 @@
-def secidea_10086:
+print('secidea', 10086)
