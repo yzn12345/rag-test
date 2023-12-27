@@ -1,1 +1,1 @@
-print('secidea', 9527)
+print('localhost', 9527)
