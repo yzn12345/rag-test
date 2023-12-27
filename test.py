@@ -1,1 +1,1 @@
-print('secidea', 10086)
+print('secidea', 9527)
